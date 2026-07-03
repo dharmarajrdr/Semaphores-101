@@ -29,3 +29,7 @@
 - `availablePermits()` method can be used to check how many permits are currently available.
 - We can acquire and release multiple permits at once by passing an integer argument to `acquire(int permits)` and `release(int permits)`. [Example](src/main/java/com/dharmaraj/MultiplePermitsExample.java)
 - When more than one thread is trying to acquire a permit, only one thread will be able to acquire/release it at a time. Meaning, internally `acquire()` and `release()` methods are Atomic and thread-safe. [Example](src/main/java/com/dharmaraj/AtomicityExample.java)
+
+- **Problems** on passing controls to different threads:
+    1. Ping-pong: [Example](src/main/java/com/dharmaraj/PingPongExample.java)
+    2. Print ABC: [Example](src/main/java/com/dharmaraj/PrintAlphabetExample.java)
