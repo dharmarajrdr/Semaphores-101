@@ -33,3 +33,4 @@
 - **Problems** on passing controls to different threads:
     1. Ping-pong: [Example](src/main/java/com/dharmaraj/PingPongExample.java)
     2. Print ABC: [Example](src/main/java/com/dharmaraj/PrintAlphabetExample.java)
+    3. FizzBuzz: [Example](src/main/java/com/dharmaraj/FizzBuzzExample.java)
