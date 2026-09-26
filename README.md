@@ -34,3 +34,4 @@
     1. Ping-pong: [Example](src/main/java/com/dharmaraj/PingPongExample.java)
     2. Print ABC: [Example](src/main/java/com/dharmaraj/PrintAlphabetExample.java)
     3. FizzBuzz: [Example](src/main/java/com/dharmaraj/FizzBuzzExample.java)
+    4. Print Natural Numbers: [Example](src/main/java/com/dharmaraj/PrintNaturalNumbersUsingOddEvenThreads.java)
