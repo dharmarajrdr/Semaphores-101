@@ -35,3 +35,4 @@
     2. Print ABC: [Example](src/main/java/com/dharmaraj/PrintAlphabetExample.java)
     3. FizzBuzz: [Example](src/main/java/com/dharmaraj/FizzBuzzExample.java)
     4. Print Natural Numbers: [Example](src/main/java/com/dharmaraj/PrintNaturalNumbersUsingOddEvenThreads.java)
+    5. Producer-Consumer: [Example](src/main/java/com/dharmaraj/ProducerConsumerExample.java)
